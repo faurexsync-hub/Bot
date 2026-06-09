@@ -1,5 +1,0 @@
-[phases.install]
-cmds = ["pip install pyTelegramBotAPI==4.21.0"]
-
-[start]
-cmd = "python main.py"
